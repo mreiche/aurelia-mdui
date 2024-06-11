@@ -7,7 +7,7 @@ npm install aurelia-mdui
 ```
 
 ## Usage
-In you `main.ts`
+Add to your `main.ts`
 ```typescript
 import {MduiWebTask} from "./aurelia-mdui"
 
