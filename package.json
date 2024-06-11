@@ -1,0 +1,21 @@
+{
+  "name": "aurelia-mdui",
+  "description": "Aurelia value-binding bridge to mdui web components",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mreiche/aurelia-mdui"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "aurelia": "latest"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
