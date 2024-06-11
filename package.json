@@ -12,7 +12,7 @@
     "/dist"
   ],
   "license": "UNLICENSED",
-  "dependencies": {
+  "peerDependencies": {
     "aurelia": "latest"
   },
   "scripts": {
