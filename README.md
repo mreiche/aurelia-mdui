@@ -23,5 +23,9 @@ and use your components as usable
 <mdui-text-field variant="filled" value.bind="message" label="Label text"></mdui-text-field>
 ```
 
+## Implementation status
+
+The library is developed and tested here: https://github.com/mreiche/mdc-web-aurelia2
+
 ## References
-- https://docs.aurelia.io/developer-guides/building-plugins
+- https://www.tsmean.com/articles/how-to-write-a-typescript-library/
